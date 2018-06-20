@@ -1,0 +1,20 @@
+
+body{
+  margin:0px;
+  width: 960px;
+  margin: auto;
+}
+
+ .sidebar{
+  float: left;
+  width: 250px;
+  padding-left:50px;
+  box-sizing: border-box;
+  background-color:black;
+  color: white;
+}
+
+.main{
+ margin-left:250px;
+ padding: 0 50px 0 50px;
+}
